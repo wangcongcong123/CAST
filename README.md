@@ -1,4 +1,4 @@
-## Source code for CAST: Crisis Domain Adaptation UsingSequence-to-sequenceTransformers ([PDF](https://www.lill.is/site/pubs/Wang2021a.html), [BibTeX](https://www.lill.is/site/bibtex/Wang2021a.bibtex.txt), Accepted to ISCRAM 2021, CorePaper)
+## Source code for CAST: Crisis Domain Adaptation UsingSequence-to-sequenceTransformers ([Paper](https://www.lill.is/site/pubs/Wang2021a.html), [BibTeX](https://www.lill.is/site/bibtex/Wang2021a.bibtex.txt), Accepted to ISCRAM 2021, CorePaper)
 
 ### Quick start
 
@@ -32,7 +32,7 @@ model_select => the base seq2seq model: 't5-small' or 't5-base'
 
 # For other configuration, just go for a bit hacking so should be easy.
 
-# For nepal_queensland, similary run `python train_nepal_queensland.py` and go check and configure the script to reproduce the paper's results.
+# For nepal_queensland, similary run `python train_nepal_queensland.py`, go check and configure the script to reproduce the paper's results.
 
 ```
 
