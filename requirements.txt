@@ -1,0 +1,6 @@
+transformers == 3.3.1
+tqdm
+torch
+datasets
+scikit-learn
+numpy

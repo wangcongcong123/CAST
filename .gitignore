@@ -1,3 +1,8 @@
 venv/
 data/
 .idea
+.cache/
+outputs/
+!data/dummy.txt
+runs/
+ptt/__pycache__
